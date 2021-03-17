@@ -1,0 +1,33 @@
+{
+  "events": [
+    {
+      "name": "Python Workshop",
+      "location": 1,
+      "date": "2021-03-01T09:00",
+      "id": 1
+    },
+    {
+      "name": "React Training",
+      "location": 2,
+      "date": "2021-02-22T14:00",
+      "id": 2
+    }
+  ],
+  "eventLocations": [
+    {
+      "id": 1,
+      "name": "Manila"
+    },
+    {
+      "id": 2,
+      "name": "Taguig"
+    },
+    {
+      "id": 3,
+      "name": "Quezon City"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
